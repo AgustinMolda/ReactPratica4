@@ -5,6 +5,7 @@ export default class Button{
         this.partentID = partentID;
         this.text = text;
     }
+    //importante leer Read me
 
     render(){
             let app = document.getElementById(this.partentID);

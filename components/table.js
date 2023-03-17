@@ -4,6 +4,7 @@ export default class Table{
         this.rows = rows;
         this.column = column;
     }
+    //importante leer Read me
 
     render(){
         let app = document.getElementById(this.parentID);

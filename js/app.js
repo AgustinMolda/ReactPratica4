@@ -16,6 +16,7 @@ function renderButon(text){
 
 }
 
+//importante leer Read me
 
 function renderInput(type){
 
